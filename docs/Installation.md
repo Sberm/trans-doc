@@ -5,7 +5,7 @@ sidebar_position: 1
 
 ### Linux & MacOS
 ```sh
-curl -fsSL https://raw.githubusercontent.com/Sberm/Transgender.rs/refs/heads/main/scripts/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/Sberm/Transgender.rs/refs/heads/main/scripts/install.sh | bash
 ```
 
 > Currently only supports Linux and MacOS of x86_64 and Arm64 architectures.
